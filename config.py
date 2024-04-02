@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 
 webpage_addresses = [
-    "https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dinternet_groups",
-    "https://t.me/s/V2range",
+"https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dinternet_groups",
+"https://t.me/s/V2range",
 "https://t.me/s/Outline_ir",
 "https://t.me/s/outlinevpnir",
 "https://t.me/s/ZibaNabz",
